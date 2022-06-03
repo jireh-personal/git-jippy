@@ -17,8 +17,5 @@ Route::get('/', function () {
    
     //dsd
 
-return 200;
-// ass dsd
-//dsdsd
-    // return view('welcome');
+return 300;
 });
