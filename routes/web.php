@@ -18,5 +18,4 @@ Route::get('/', function () {
     //dsd
 
 return 300;
-    // return view('welcome');
 });
